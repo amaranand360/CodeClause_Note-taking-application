@@ -4,6 +4,9 @@
 
 Welcome to my note taking website! This is a simple web application that allows you to create, read, update, and delete notes. It's perfect for keeping track of your to-do lists, ideas, or anything else you need to remember.
 
+# 🚀 Live Demo
+- site is live at : https://note-taking-app-by-amar.netlify.app/
+
 # 🚀 Getting Started
 To get started, simply clone this repository to your local machine and navigate to the project directory.
 
