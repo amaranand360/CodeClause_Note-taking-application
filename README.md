@@ -23,6 +23,7 @@ This note taking website comes with the following features:
 - read: You can able to read all notes .
 - update: User are able to update their note by updating title description date created .
 - delete:User are able delete unwanted note and if the task is completed.
+- Responsive : User are able to use in mobile,Tablet and laptop this site fully responsive. 
 
 
 # 🤝 Contributing
@@ -32,7 +33,11 @@ Contributions to this project are welcome! If you find a bug or have an idea for
 # 📬 Contact
 - If you have any questions or comments, please feel free to contact me at:  amar.anand0030@gmail.com. 
 
-<h3> Thank you for using my note taking website! </h3>
+# Screenshot 
+
+![Screenshot (89)](https://github.com/amaranand360/CodeClause_Note-taking-application/assets/122713145/c7632db5-21c2-4b99-b838-eb2a5e814d93)
+
+<h3> Thank you for visting my note taking website! </h3>
 
 
 
